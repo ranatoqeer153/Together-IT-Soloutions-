@@ -2,11 +2,11 @@
 display:flex;
 justify-content:space-between;
 align-items:center;
-padding:10px 20px;
+padding:10px 10px;
 background:#0f172a;
 }
 
 .logo{
-height:30px;
+height:20px;
 width:auto;
 }
